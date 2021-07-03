@@ -12,8 +12,6 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
 print(f"\nConnected to {s.getsockname()}!")
 
-#s.dup()
-
 # set up the game
 player_o = TicTacToe("O")
 
