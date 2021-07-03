@@ -22,7 +22,7 @@ Enter coordinate:
 
 I programmed this primarily to learn the basics of networking and how to send and receive data between two users. I also wanted to continue polishing my skills in the Python language.
 
-Here's a link to a demo of my program: [Software Demo Video](http://youtube.link.goes.here)
+Here's a link to a demo of my program: [Software Demo Video](https://youtu.be/SwgcN-jh8Xs)
 
 # Network Communication
 
